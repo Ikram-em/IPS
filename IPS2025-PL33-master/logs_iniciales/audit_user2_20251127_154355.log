@@ -1,0 +1,11 @@
+2025-11-27 15:43:55.558 | session=10 | LOGIN | Inicio de sesión usuarioId=2
+2025-11-27 15:43:58.463 | session=10 | BOTON_CLICK | Acceso a Tienda
+2025-11-27 15:44:00.181 | session=10 | BOTON_CLICK | Acceso a tienda de productos
+2025-11-27 15:44:01.476 | session=10 | BOTON_CLICK | Añadir producto al carrito: idProducto=1
+2025-11-27 15:44:02.346 | session=10 | BOTON_CLICK | Añadir producto al carrito: idProducto=2
+2025-11-27 15:44:03.393 | session=10 | BOTON_CLICK | Añadir producto al carrito: idProducto=3
+2025-11-27 15:44:05.428 | session=10 | BOTON_CLICK | Finalizar compra
+2025-11-27 15:44:05.437 | session=10 | COMPRA_PRODUCTO | idProducto=1, cantidad=1, usuarioId=2
+2025-11-27 15:44:05.444 | session=10 | COMPRA_PRODUCTO | idProducto=2, cantidad=1, usuarioId=2
+2025-11-27 15:44:05.451 | session=10 | COMPRA_PRODUCTO | idProducto=3, cantidad=3, usuarioId=2
+2025-11-27 15:44:19.322 | session=10 | LOGOUT | Cierre de sesión

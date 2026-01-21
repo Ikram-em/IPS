@@ -1,0 +1,7 @@
+2025-12-01 16:43:05.361 | session=9 | LOGIN | Inicio de sesión usuarioId=1
+2025-12-01 16:43:07.949 | session=9 | BOTON_CLICK | Gestionar Empleados
+2025-12-01 16:43:08.993 | session=9 | BOTON_CLICK | Acceso menú horarios
+2025-12-01 16:43:12.374 | session=9 | BOTON_CLICK | Acceso al horario completo para empleado con id=2
+2025-12-01 16:43:19.596 | session=9 | BOTON_CLICK | Acceso menú tareas de jardinería
+2025-12-01 16:43:21.58 | session=9 | BOTON_CLICK | Acceso planificación jardinero con id=64
+2025-12-01 16:43:57.74 | session=9 | BOTON_CLICK | Acceso planificación jardinero con id=3

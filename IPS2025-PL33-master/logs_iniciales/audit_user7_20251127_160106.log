@@ -1,0 +1,5 @@
+2025-11-27 16:01:06.558 | session=10 | LOGIN | Inicio de sesión usuarioId=7
+2025-11-27 16:01:07.708 | session=10 | BOTON_CLICK | Portal Médico
+2025-11-27 16:01:08.657 | session=10 | BOTON_CLICK | Acceso lesión con id=1
+2025-11-27 16:01:10.921 | session=10 | BOTON_CLICK | Dada de alta lesión con id=1
+2025-11-27 16:01:15.067 | session=10 | LOGOUT | Cierre de sesión

@@ -1,0 +1,4 @@
+2025-12-01 16:41:53.771 | session=9 | LOGIN | Inicio de sesión usuarioId=1
+2025-12-01 16:41:55.283 | session=9 | BOTON_CLICK | Gestionar Empleados
+2025-12-01 16:41:56.932 | session=9 | BOTON_CLICK | Acceso menú horarios
+2025-12-01 16:41:58.639 | session=9 | BOTON_CLICK | Acceso al horario completo para empleado con id=1

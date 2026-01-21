@@ -1,0 +1,4 @@
+2025-11-27 15:53:33.689 | session=11 | LOGIN | Inicio de sesión usuarioId=4
+2025-11-27 15:53:35.121 | session=11 | BOTON_CLICK | Gestionar Franjas
+2025-11-27 15:53:37.409 | session=11 | BOTON_CLICK | Gestionar franjas
+2025-11-27 15:53:46.748 | session=11 | LOGOUT | Cierre de sesión

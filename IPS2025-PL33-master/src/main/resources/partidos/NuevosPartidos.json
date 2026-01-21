@@ -1,0 +1,102 @@
+[
+  {
+    "fecha": "2025-12-03",
+    "hora_inicio": "17:00",
+    "hora_final": "19:00",
+    "id_equipoInterno": 1,
+    "NombreEquipoExterno": "Barcelona",
+    "tiene_suplemento": "NO",
+    "precio_suplemento": 0,
+    "id_instalacion": 1
+  },
+  {
+    "fecha": "2025-12-05",
+    "hora_inicio": "18:00",
+    "hora_final": "20:00",
+    "id_equipoInterno": 1,
+    "NombreEquipoExterno": "Real Madrid",
+    "tiene_suplemento": "SI",
+    "precio_suplemento": 10,
+    "id_instalacion": 2
+  },
+  {
+    "fecha": "2025-12-08",
+    "hora_inicio": "16:00",
+    "hora_final": "18:00",
+    "id_equipoInterno": 2,
+    "NombreEquipoExterno": "Barcelona",
+    "tiene_suplemento": "NO",
+    "precio_suplemento": 0,
+    "id_instalacion": 3
+  },
+  {
+    "fecha": "2025-12-11",
+    "hora_inicio": "19:00",
+    "hora_final": "21:00",
+    "id_equipoInterno": 2,
+    "NombreEquipoExterno": "Real Madrid",
+    "tiene_suplemento": "SI",
+    "precio_suplemento": 12,
+    "id_instalacion": 3
+  },
+  {
+    "fecha": "2025-12-15",
+    "hora_inicio": "17:30",
+    "hora_final": "19:30",
+    "id_equipoInterno": 3,
+    "NombreEquipoExterno": "Barcelona",
+    "tiene_suplemento": "NO",
+    "precio_suplemento": 0,
+    "id_instalacion": 4
+  },
+  {
+    "fecha": "2025-12-18",
+    "hora_inicio": "16:00",
+    "hora_final": "18:00",
+    "id_equipoInterno": 3,
+    "NombreEquipoExterno": "Real Madrid",
+    "tiene_suplemento": "SI",
+    "precio_suplemento": 20,
+    "id_instalacion": 5
+  },
+  {
+    "fecha": "2025-12-21",
+    "hora_inicio": "18:00",
+    "hora_final": "20:00",
+    "id_equipoInterno": 4,
+    "NombreEquipoExterno": "Barcelona",
+    "tiene_suplemento": "NO",
+    "precio_suplemento": 0,
+    "id_instalacion": 6
+  },
+  {
+    "fecha": "2025-12-23",
+    "hora_inicio": "17:00",
+    "hora_final": "19:00",
+    "id_equipoInterno": 4,
+    "NombreEquipoExterno": "Real Sociedad",
+    "tiene_suplemento": "SI",
+    "precio_suplemento": 18,
+    "id_instalacion": 1
+  },
+  {
+    "fecha": "2025-12-27",
+    "hora_inicio": "12:00",
+    "hora_final": "14:00",
+    "id_equipoInterno": 1,
+    "NombreEquipoExterno": "Valencia",
+    "tiene_suplemento": "NO",
+    "precio_suplemento": 0,
+    "id_instalacion": 2
+  },
+  {
+    "fecha": "2025-12-29",
+    "hora_inicio": "20:00",
+    "hora_final": "22:00",
+    "id_equipoInterno": 2,
+    "NombreEquipoExterno": "Athletic Club",
+    "tiene_suplemento": "SI",
+    "precio_suplemento": 22,
+    "id_instalacion": 4
+  }
+]

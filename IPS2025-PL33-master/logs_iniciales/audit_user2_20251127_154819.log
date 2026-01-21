@@ -1,0 +1,6 @@
+2025-11-27 15:48:20.001 | session=11 | LOGIN | Inicio de sesión usuarioId=2
+2025-11-27 15:48:28.13 | session=11 | BOTON_CLICK | Menu Abonos
+2025-11-27 15:48:30.632 | session=11 | BOTON_CLICK | Pagar suplemento partido
+2025-11-27 15:49:03.076 | session=11 | BOTON_CLICK | Pago de suplemento realizado para partido con id=23
+2025-11-27 15:49:16.816 | session=11 | BOTON_CLICK | Se ha abierto la factura de compra
+2025-11-27 15:49:23.17 | session=11 | LOGOUT | Cierre de sesión

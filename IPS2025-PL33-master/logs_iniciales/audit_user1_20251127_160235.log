@@ -1,0 +1,6 @@
+2025-11-27 16:02:35.315 | session=10 | LOGIN | Inicio de sesión usuarioId=1
+2025-11-27 16:02:36.751 | session=10 | BOTON_CLICK | Gestionar Empleados
+2025-11-27 16:02:39.209 | session=10 | BOTON_CLICK | Acceso menú consultar empleados
+2025-11-27 16:03:03.771 | session=10 | BOTON_CLICK | Guardar modificaciones
+2025-11-27 16:03:04.541 | session=10 | INFO | Empleado modificado con id=44
+2025-11-27 16:03:11.723 | session=10 | LOGOUT | Cierre de sesión
